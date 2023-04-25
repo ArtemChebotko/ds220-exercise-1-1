@@ -2,8 +2,8 @@
 <div class="top">
   <img class="scenario-academy-logo" src="https://datastax-academy.github.io/katapod-shared-assets/images/ds-academy-2023.svg" />
   <div class="scenario-title-section">
-    <span class="scenario-title">Exercise 1.1 - Starting Up Lab Environment</span>
-    <span class="scenario-subtitle">ℹ️ For technical support, please contact us via <a href="mailto:aleksandr.volochnev@datastax.com">email</a> or <a href="https://dtsx.io/aleks">LinkedIn</a>.</span>
+    <span class="scenario-title">Exercise 1.1: Starting Up Lab Environment</span>
+    <span class="scenario-subtitle">ℹ️ For technical support, please contact us via <a href="mailto:academy@datastax.com">email</a>.</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
     <div class="container px-4 py-2">
      <div class="row g-4 py-2 row-cols-1 row-cols-lg-1">
       <div class="feature col div-choice">
-            <div class="scenario-description">Starting Up Lab Environment.</div>
+            <div class="scenario-description">Exercise 1.1: Starting Up Lab Environment</div>
             <ul>
               <li><span class="scenario-description-attribute">Difficulty</span>: Easy</li>
               <li><span class="scenario-description-attribute">Time</span>: 5 minutes</li>

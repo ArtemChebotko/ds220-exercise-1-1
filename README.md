@@ -1,4 +1,4 @@
-# Exercise 1.1 - Starting Up Lab Environment
+# Exercise 1.1: Starting Up Lab Environment
 
 ## Start the hands-on lab:
 
